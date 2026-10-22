@@ -41,14 +41,16 @@ Os ecrãs foram desenhados no **Figma**.
 
 Caixa de pesquisa por cargo, filtros de localização e área, e lista das ofertas recentes.
 
-![Ecrã de pesquisa](docs/ecra_pesquisa.png)
+<img width="1326" height="728" alt="image" src="https://github.com/user-attachments/assets/5f309020-0e16-4eb6-9da4-1d361ceea781" />
+
 
 ### Detalhe da vaga
 
 Aparece ao carregar em **Ver detalhes**. Mostra a localização, a área, a fonte, a descrição, os requisitos
 e um botão para abrir o anúncio original.
 
-![Detalhe da vaga](docs/ecra_detalhe.png)
+<img width="1355" height="793" alt="image" src="https://github.com/user-attachments/assets/3d9cc887-4ab2-4259-8076-bd242cc8ea9b" />
+
 
 ---
 
