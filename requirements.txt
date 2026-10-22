@@ -1,1 +1,2 @@
-# Sem dependências externas nesta versão inicial.
+# Nesta fase o projeto usa apenas a biblioteca-padrão do Python (incluindo Tkinter).
+# As bibliotecas externas (por exemplo, para o scraping) serão adicionadas aqui quando forem usadas.
